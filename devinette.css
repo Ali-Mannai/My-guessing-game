@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: darkkhaki;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #instructions {
+    margin-top: 20px;
+  }
+  
+  #guessInput {
+    margin-top: 10px;
+    padding: 5px;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: aqua;
+    border: 2px solid;
+    
+  }
+  
+  div {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border: 3px solid;
+    border-radius: 300px 0 300px 0;
+    background-color: aqua;
+    margin: 20px 450px 0 450px ;
+    padding: 50px 50px 0 50px;
+  }
